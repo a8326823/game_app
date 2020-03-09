@@ -1,0 +1,4 @@
+<?php
+//000000000000
+ exit();?>
+a:1:{i:54;a:30:{s:2:"id";s:2:"54";s:11:"channeltype";s:1:"1";s:15:"current_channel";s:1:"6";s:9:"parent_id";s:1:"0";s:8:"typename";s:12:"联系我们";s:7:"dirname";s:11:"lianxiwomen";s:7:"dirpath";s:12:"/lianxiwomen";s:12:"englist_name";s:10:"Contact Us";s:5:"grade";s:1:"0";s:8:"typelink";s:0:"";s:6:"litpic";s:0:"";s:8:"templist";s:16:"lists_single.htm";s:8:"tempview";s:0:"";s:9:"seo_title";s:0:"";s:12:"seo_keywords";s:0:"";s:15:"seo_description";s:0:"";s:10:"sort_order";s:1:"7";s:9:"is_hidden";s:1:"0";s:7:"is_part";s:1:"0";s:8:"admin_id";s:1:"1";s:6:"is_del";s:1:"0";s:10:"del_method";s:1:"0";s:6:"status";s:1:"1";s:10:"is_release";s:1:"0";s:10:"weapp_code";s:0:"";s:4:"lang";s:2:"cn";s:8:"add_time";s:10:"1563761937";s:11:"update_time";s:10:"1564645627";s:6:"typeid";s:2:"54";s:7:"typeurl";s:40:"/index.php?m=home&c=Lists&a=index&tid=54";}}

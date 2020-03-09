@@ -1,0 +1,4 @@
+<?php
+//000000000000
+ exit();?>
+s:639:"<option value="1" data-grade="0" data-current_channel="6" disabled="true" style="background-color:#f5f5f5;">关于我们</option><option value="9" data-grade="1" data-current_channel="1">&nbsp;&nbsp;&nbsp;&nbsp;公司荣誉</option><option value="2" data-grade="0" data-current_channel="1">新闻动态</option><option value="10" data-grade="1" data-current_channel="1" selected="ture">&nbsp;&nbsp;&nbsp;&nbsp;公司动态</option><option value="11" data-grade="1" data-current_channel="1">&nbsp;&nbsp;&nbsp;&nbsp;行业资讯</option><option value="12" data-grade="1" data-current_channel="1">&nbsp;&nbsp;&nbsp;&nbsp;媒体报道</option>";
